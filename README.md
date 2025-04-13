@@ -1,4 +1,4 @@
-# Task-4# 📊 Nexus Global Sales Dashboard
+# 📊 Nexus Global Sales Dashboard
 
 Welcome to the **Nexus Global Sales Dashboard** repository! This Power BI dashboard provides a dynamic and visually engaging overview of key sales performance metrics for an e-commerce company. It is designed to help stakeholders monitor and analyze sales trends, revenue, profit, and team performance at a glance.
 
